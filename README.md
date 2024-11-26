@@ -38,7 +38,7 @@ To run this project locally, follow these steps:
    ```
 2. **Navigate to the project directory**:
    ```bash
-   cd tic-tac-toe
+   cd TikTakToe_minimax_depth
    ```
 3. **Open the <code>index.html</code> file in your browser**:
    ```bash
